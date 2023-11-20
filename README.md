@@ -1,6 +1,6 @@
-# nextjs-web3-react-metamask-connect
+# Vault_Contract_nextjs-web3
 
-This is a minimalistic project to show us how we can connect to metamask using [web3-react](https://github.com/NoahZinsmeister/web3-react) in nextjs / react.
+This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/LovelyDodger/Vault_Contract_Next_Web3) in nextjs / web3.js.
 
 This could just as easily be done in typescript.
 
@@ -8,7 +8,7 @@ This project started with nexjs boilerplate by running `yarn create next-app nex
 
 Video Coming soon...
 
-- [nextjs-web3-react-metamask-connect](#nextjs-web3-react-metamask-connect)
+- [Vault_Contract_Next_Web3](#Vault_Contract_Nextjs_Web3js)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -41,16 +41,16 @@ Video coming soon...
 1. Clone and install dependencies
 
 ```
-git clone https://github.com/PatrickAlphaC/nextjs-ethers-metamask-connect
-cd nextjs-ethers-metamask-connect
+git clone https://github.com//LovelyDodger/Vault_Contract_Next_Web3
+cd Vault_Contract_Next_Web3
 yarn
 ```
 
 2. Then, you'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-simple-storage
-cd hardhat-simple-storage
+git clone https://github.com//LovelyDodger/Vault_Contract_Next_Web3
+cd /LovelyDodger/Vault_Contract_Next_Web3
 yarn hardhat node
 ```
 
@@ -81,23 +81,12 @@ You'll be brought to the UI after running `yarn dev` which has exactly 2 buttons
 
 If you use metamask with a local network, everytime you shut down your node, you'll need to reset your account. Settings -> Advanced -> Reset account. Don't do this with a metamask you have real funds in.
 
-# Full Examples
-
-- [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate)
-- [web3-react-example](https://github.com/NoahZinsmeister/web3-react/tree/main/packages/example)
-- [Aave UI](https://github.com/aave/aave-ui)
-- [Uniswap UI](https://github.com/Uniswap/interface)
-
 # Thank you!
 
 If you appreciated this, feel free to follow me or donate!
 
 ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
 
 # Smart Contract address
 
