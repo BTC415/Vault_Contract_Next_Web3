@@ -1,6 +1,6 @@
 # Vault_Contract_nextjs-web3
 
-This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/LovelyDodger/Vault_Contract_Next_Web3) in nextjs / web3.js.
+This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/BTC415/Vault_Contract_Next_Web3) in nextjs / web3.js.
 
 This could just as easily be done in typescript.
 
@@ -49,7 +49,7 @@ yarn
 2. Then, you'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com//LovelyDodger/Vault_Contract_Next_Web3
+git clone https://github.com//BTC415/Vault_Contract_Next_Web3
 cd /LovelyDodger/Vault_Contract_Next_Web3
 yarn hardhat node
 ```
